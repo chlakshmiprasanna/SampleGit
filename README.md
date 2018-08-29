@@ -1,1 +1,2 @@
 # SampleGit
+Testing first commit
